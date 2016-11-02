@@ -4,8 +4,8 @@ title: Home
 ---
 
 <header>
-<h1>{{ site.description }} {% if link in site.link %}<a href="{{ site.link }}">{{ site.titlelink }}</a>.{% endif %}</h1>
-<p>{{ site.subdescription }}</p>
+<h1>{{ site.description }}</h1>
+<p>This has to be written in the index.md file... why can't you do it in config?? or add a custom tag?</p>
 </header>
 
 {% include tiles.html %}
