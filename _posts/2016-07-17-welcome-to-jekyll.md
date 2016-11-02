@@ -1,7 +1,9 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
+title:  "Just testing!!"
 date:   2016-07-17 12:00:00 -0400
 categories: jekyll update
+image: /images/pic07.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
+This is a test post. Just another fun and interesting test post to see what it will look like.
+Hopefully nothing bad will happen, but we will never know.
