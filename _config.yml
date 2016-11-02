@@ -9,7 +9,7 @@
 title: Test Blog!!
 email: youremailaddress@gmail.com
 description: The Jekyll version of the Phantom theme by HTML5 UP.
-baseurl: "testpageblog" # the subpath of your site, e.g. /blog
+baseurl: "/testpageblog" # the subpath of your site, e.g. /blog
 url: "aokice.github.io" # the base hostname & protocol for your site
 
 # Logo settings
