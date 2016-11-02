@@ -8,7 +8,10 @@
 # Site settings
 title: Test Blog!!
 email: youremailaddress@gmail.com
-description: The Jekyll version of the Phantom theme by HTML5 UP.
+description: The Jekyll version of the Phantom theme by.
+subdescription: Just a blog with testing the page for jekyll and just random stuff to see if it all works in handy dandy ways.
+link: "https://html5up.net/" # if you want to show link in description
+titlelink: HTML5up # text shown for link
 baseurl: "/testpageblog" # the subpath of your site, e.g. /blog
 url: "aokice.github.io" # the base hostname & protocol for your site
 
