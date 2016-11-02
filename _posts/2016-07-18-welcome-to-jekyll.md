@@ -1,7 +1,9 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
+title:  "Hi another test!"
 date:   2016-07-18 12:00:00 -0400
 categories: jekyll update
+image: images/pic04.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
+Yeah!! Another test, did you think something different? Ohhh you silly person.
+I betcha wanted to see an update of just no tests right??
