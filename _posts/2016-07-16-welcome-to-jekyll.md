@@ -1,7 +1,10 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
-date:   2016-07-16 12:00:00 -0400
-categories: jekyll update
+title:  "First Blog!"
+date:   2016-07-16
+categories: blog
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
+
+##Test##
+
+Testing as first blog!
