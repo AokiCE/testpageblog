@@ -6,24 +6,24 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Test Blog!!
+title: Phantom
 email: youremailaddress@gmail.com
-description: The Jekyll version of the Phantom theme.
-baseurl: "/testpageblog" # the subpath of your site, e.g. /blog
-url: "aokice.github.io" # the base hostname & protocol for your site
+description: The Jekyll version of the Phantom theme by HTML5 UP.
+baseurl: "/phantom-jekyll-theme" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 
 # Logo settings
 logo-image-url: images/logo.svg
 font-awesome-icon-logo:
 
 # Social settings
-github_username: AokiCE
-twitter_username: 
-facebook_URL: 
-instagram_username: 
-dribbble_username: 
-500px_username: 
-phone:
+github_username: andrewbanchich
+twitter_username: andrewbanchich
+facebook_URL: andrewbanchich
+instagram_username: andrewbanchich
+dribbble_username: andrewbanchich
+500px_username: andrewbanchich
+phone: 555-5555
 
 # Build settings
 markdown: kramdown
