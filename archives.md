@@ -18,5 +18,3 @@ title: Old Blog Posts
 
 </h4>
 </section>
-    
-{% include pagination.html %}
