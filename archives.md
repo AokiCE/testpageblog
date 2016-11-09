@@ -4,7 +4,6 @@ title: Old Blog Posts
 ---
 
 <section>
-<h4 align="left">
   <strong>{{ post.date | date: "%A, %B %e, %Y" }}</strong>
     <small>.
     <a class="category" href="{{site.baseurl}}/categories/{{ post.category | downcase }}.html">
@@ -15,6 +14,4 @@ title: Old Blog Posts
   <a href="{{site.baseurl}}{{post.url}}">
     <strong>{{ post.title }}</strong>
   </a>
-
-</h4>
 </section>
