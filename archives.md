@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Old Blog Posts
+title: Archive of Blog Posts
 ---
 
 <section>
