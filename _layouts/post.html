@@ -5,7 +5,16 @@
 
 <body>
 
-    {% include header.html %} {{ content }} {% include footer.html %}
+    {% include header.html %} 
+    
+    <section class align="left">
+        <p><strong>{{ post.tite }}</strong></p>
+        <p><small>{{ post.date | date_to_string }}</small></p>
+    </section>   
+    {{ content }} 
+
+    
+    {% include footer.html %}
 
 </body>
 
