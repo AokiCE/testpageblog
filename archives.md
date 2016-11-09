@@ -5,15 +5,8 @@ title: Old Blog Posts
 
 <section>
   {% for post in site.posts %}
-  <large><strong>{{ post.date | date: "%A, %B %e, %Y" }}</strong></large>
-    <small>.
-    <a class="category" href="{{site.baseurl}}/categories/{{ post.category | downcase }}.html">
-      {{ post.category }}
-    </a>
-  .</small>
-  <br class="visible-xs-block">
-  <a href="{{site.baseurl}}{{post.url}}">
-    <strong>{{ post.title }}</strong>
-  </a>
+    _<a href="{{site.baseurl}}{{post.url}}"><strong>{{ post.title }}</strong></a>_
+    <strong>{{ post.date | date: "%A, %B %e, %Y" }}</strong>
+    <small>.<a class="category" href="{{site.baseurl}}/categories/{{ post.category | downcase }}.html">{{ post.category }}</a>.</small>
   {% endfor %}
 </section>
