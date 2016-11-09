@@ -6,13 +6,13 @@
 <body>
 
     {% include header.html %} 
-    
-    <section class align="left">
+<section>    
+    <div class align="left">
         <p><strong>{{ post.tite }}</strong></p>
         <p><small>{{ post.date | date: "%A, %B %e, %Y" }}</small></p>
-    </section>   
+    </div>   
     {{ content }} 
-
+</section>
     
     {% include footer.html %}
 
