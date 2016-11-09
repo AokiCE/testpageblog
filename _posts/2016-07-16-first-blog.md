@@ -5,6 +5,6 @@ date:   2016-07-16
 category: blog
 ---
 
-##Test##
+## Test
 
 Testing as first blog!
